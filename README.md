@@ -5,7 +5,7 @@ Rodbooks é um projeto de front-end desenvolvido com React que simula uma livrar
 ---
 ## 📸 Demonstração
 
-![Rodbooks Screenshot]()
+![Rodbooks Screenshot](public/images/img-rodbook.png)
 
 ## 🚀 Tecnologias utilizadas
 
